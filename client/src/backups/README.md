@@ -48,6 +48,10 @@ git pull origin main
 
 ### 양방향 데이터 바인딩
 
+사용자가 input에 입력 -> text 상태가 바뀜
+
+text 상태가 바뀌면 -> input 값, console.log 모두 자동 반영됨
+
 ```jsx
 import { useState } from 'react'
 

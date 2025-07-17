@@ -1,0 +1,20 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "main": "syntax.js",
+  "scripts": {
+    "dev:client": "cd client && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangIk135/JS-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangIk135/JS-Project/issues"
+  },
+  "homepage": "https://github.com/SangIk135/JS-Project#readme",
+  "description": ""
+}
